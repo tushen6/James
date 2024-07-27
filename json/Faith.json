@@ -1,0 +1,31 @@
+{
+    "spider": "https://vip.123pan.cn/1829447248/fx/spider.jar",        
+    "wallpaper": "https://p0.meituan.net/csc/f0c778df53afd1afb8d61041275758ed166684.jpg",
+    "logo": "https://p0.meituan.net/csc/25a849b93dc76e448783c2122309500a564569.gif",
+    
+    
+    "sites": [
+        {
+            "key": "nebe",
+            "name": "🔴本接口流量已用完丨通过下面方法获取新接口",
+            "type": 3,
+            "api": "csp_Douban",
+            "searchable": 0
+        },
+
+  {
+            "key": "hdhdh",
+            "name": "🔴加qq群12451629丨获取最新接口",
+            "type": 3,
+            "api": "csp_Douban",
+            "searchable": 0
+        },
+          {
+            "key": "bsbshs",
+            "name": "🔴关注公众号:林中的小屋丨获取最新接口",
+            "type": 3,
+            "api": "csp_Douban",
+            "searchable": 0
+        }
+        ]
+        }
