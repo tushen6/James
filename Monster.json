@@ -293,38 +293,7 @@
             "quickSearch": 1,
             "ext": "./JS/采集之王.js?type=url&params=./JS/采集静态.json$1$1"
         },
-          {
-      "key": "sliu_spider",
-      "name": "石榴✨蓝光直连",
-      "api": "csp_ShiLiuDY",
-      "type": 3,
-      "filterable": 1,
-      "playerType": 2,
-      "quickSearch": 1,
-      "searchable": 1,
-      "jar": "./jar/0719.jar",
-      "ext": ""
-    },
-           {
-      "key": "柠檬",
-      "name": "柠檬✨蓝光秒播",
-      "type": 3,
-      "api": "csp_Nmvod",
-      "playerType": 2,
-      "jar": "./jar/0719.jar",
-      "ext": "https://api.cnmcom.com/webcloud/relay.php?url="
-    },
-     {
-      "key": "Lib",
-      "name": "Lib✨蓝光秒播",
-      "type": 3,
-      "api": "csp_Lib",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "jar": "./jar/0719.jar",
-      "ext": "./JS/playerconfig.js"
-    },
+
      {
       "key": "七夕影视",
       "name": "七夕✨蓝光秒播",
@@ -891,11 +860,20 @@
             },
             "jar": "./danmu.jar"
         },
-	   
+	    {
+            "key": "New6v",
+            "name": "🧲磁力｜New6V",
+            "type": 3,
+            "api": "csp_New6v",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.xb6v.com"
+        },
      
-            {
+           {
             "key": "玩偶弹幕",
-            "name": "💯4K玩偶丨极致HDR",
+            "name": "💯4K玩偶丨臻享HDR",
             "type": 3,
             "api": "csp_Wogg",
             "searchable": 1,
@@ -904,8 +882,8 @@
             "ext": {
                 "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-               "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
-		    "site": "https://www.wogg.net",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "wogg": true,
                 "danmu": true
             },
             "jar": "./danmu.jar"
@@ -1761,7 +1739,7 @@
         {
             "name": "神荼live",
             "type": 0,
-            "url": "./TV/zby.txt",
+            "url": "./zby.m3u",
             "playerType": 1,
             "ua": "okhttp/3.15",
       "epg": "https://live.fanmingming.com/e.xml",
