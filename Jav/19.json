@@ -2,7 +2,7 @@
   "urls": [
        {
            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/bizhangjie/CatVodSpider/main/json/index18.json",
-           "name": "🔞翻墙"
+           "name": "🔞魔法"
         },
         {
             "url": "https://api.niaoyun.us/18/jsm.json",
@@ -22,7 +22,7 @@
         }, 	
         {
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/lndsqhj/zblive/main/tvbox-akun.json",
-            "name": "18av"
+            "name": "18"
         }, 	
          {
             "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/0906.json",
@@ -35,7 +35,7 @@
         
         {
             "url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/newrecha/TVBOX/main/%E7%BB%85%E5%A3%AB_%E8%A7%A3.json",
-            "name": "18禁"
+            "name": "18o"
         }
   ]
 }
