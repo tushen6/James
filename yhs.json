@@ -1,0 +1,17 @@
+
+{
+    "logo": "https://p0.meituan.net/csc/25a849b93dc76e448783c2122309500a564569.gif",
+    "sites": [
+
+{
+    "key": "浴火社",
+    "name": "🔥浴火焚身🔥",
+    "type": 3,
+    "api": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/py/py_浴火社.py",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 0,
+    "changeable": 0
+}
+]
+}
